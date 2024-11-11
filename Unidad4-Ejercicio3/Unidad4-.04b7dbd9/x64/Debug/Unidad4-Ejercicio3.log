@@ -1,0 +1,22 @@
+﻿  Ejercicio2.cpp
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(40,93): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(40,93): warning C4244:         with
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(40,93): warning C4244:         [
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(40,93): warning C4244:             T=float
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(40,93): warning C4244:         ]
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(40,72): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(40,72): warning C4244:         with
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(40,72): warning C4244:         [
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(40,72): warning C4244:             T=float
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(40,72): warning C4244:         ]
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(48,93): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(48,93): warning C4244:         with
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(48,93): warning C4244:         [
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(48,93): warning C4244:             T=float
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(48,93): warning C4244:         ]
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(48,72): warning C4244: 'argumento': conversión de 'int' a 'T'; posible pérdida de datos
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(48,72): warning C4244:         with
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(48,72): warning C4244:         [
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(48,72): warning C4244:             T=float
+C:\Mavi\Unidad4-Ejercicio3\Ejercicio2.cpp(48,72): warning C4244:         ]
+  Unidad4-Ejercicio3.vcxproj -> C:\Mavi\Unidad4-Ejercicio3\x64\Debug\Unidad4-Ejercicio3.exe
